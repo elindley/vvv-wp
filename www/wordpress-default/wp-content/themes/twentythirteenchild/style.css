@@ -1,0 +1,19 @@
+/*
+Theme Name: Twenty Thirteen Child
+Theme URI: http://local.wordpress.dev/twentythirteenchild/
+Description: Child theme for the Twenty Thirteen theme
+Author: Zac Gordon
+Author URI: http://wp.zacgordon.com/
+Template: twentysixteen
+Version: 1.0
+*/
+
+@import "../twentythirteen/style.css";
+
+.navbar {
+    background-color: #220e10;
+}
+
+.nav-menu li a {
+	color: #fff;
+}
